@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="prefScreen">
+
+
+    <EditTextPreference
+        android:key="notificaciones"
+        android:title="@string/noti"
+        android:summary="@string/noti_summary"
+        android:dialogTitle="@string/noti"
+        android:defaultValue=""
+        />
+
+    <ListPreference
+        android:key="categorias"
+        android:title="Tipos de avisos a mostrar"
+        android:entries="@array/unidades_entries"
+        android:entryValues="@array/unidades_value"
+        android:summary="Valores"
+        android:defaultValue="0"
+
+        />
+</PreferenceScreen>

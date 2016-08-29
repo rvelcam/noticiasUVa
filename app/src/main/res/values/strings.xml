@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noticias de la UVa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="noti">Nueva noticia</string>
+    <string name="noti_summary">El xml ha Cambiado</string>
+    <string name="notificacion">Notificación</string>
+</resources>

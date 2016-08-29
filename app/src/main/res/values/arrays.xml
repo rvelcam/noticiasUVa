@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="unidades_entries">
+        <item>Todos los avisos</item>
+        <item>Avisos destacados</item>
+        <item>Avisos generales</item>
+        <item>Conferencias/Charlas/Talleres</item>
+        <item>Ofertas de becas/prácticas/empleo</item>
+        <item>Avisos y Ofertas de TFG/TFM</item>
+        <item>Junta de Escuela</item>
+        <item>Investigación</item>
+        <item>Otros</item>
+
+    </string-array>
+
+    <string-array name="unidades_value">
+        <item>0</item> <!-- Todos los valores -->
+        <item>1</item> <!-- 12 -->
+        <item>2</item> <!-- 1, 2 -->
+        <item>3</item> <!-- 11 -->
+        <item>4</item> <!-- 3, 4 -->
+        <item>5</item> <!-- 5 -->
+        <item>6</item> <!-- 15 -->
+        <item>7</item> <!-- 16 -->
+        <item>8</item> <!-- Otros: 6, 7, 8, 9, 10, 13, 14 -->
+
+    </string-array>
+
+</resources>
